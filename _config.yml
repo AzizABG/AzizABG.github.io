@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aziz Burak Gülen"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at The Ohio State University, Department of Mathematics"
+  bio              : PhD Candidate at The Ohio State University, <a href="https://math.osu.edu">Department of Mathematics</a>
   location         : "Columbus, OH"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
