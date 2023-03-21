@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home - Aziz Burak Gülen"
+title                    : "Aziz Burak Gülen"
 title_separator          : "-"
 name                     : &name "Aziz Burak Gülen"
 description              : &description "personal description"
