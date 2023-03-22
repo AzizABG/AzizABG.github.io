@@ -2,7 +2,7 @@
 title: "Galois Conenctions in Persistent Homology"
 collection: publications
 permalink: /publication/2022-10-11-GaloisConnectionsInPersistentHomology
-<!--- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' --->
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-10-11
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2201.06650'
