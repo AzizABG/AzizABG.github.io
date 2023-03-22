@@ -2,13 +2,7 @@
 title: "Galois Conenctions in Persistent Homology"
 collection: publications
 permalink: /publication/2022-10-11-GaloisConnectionsInPersistentHomology
-excerpt: 'High-dimensional data sets are typically very difficult to understand. Statistics provides a
-wealth of quantitative tools for tackling this problem. Topological data analysis (TDA) on
-the other hand offers qualitative invariants for understanding high-dimensional data sets.
-Persistent homology is the main tool used in TDA. It takes as input a nested sequence of
-spaces and outputs an invariant that captures where holes were born and died in the sequence
-of spaces. This invariant is called the persistence diagram or barcode. We provide a new language for studying
-persistent homology. We show that this language unifies central concepts in persistent homology. And it also provides access to Rota's Galois connection theorem.'
+excerpt: 'High-dimensional data sets are typically very difficult to understand. Statistics provides a wealth of quantitative tools for tackling this problem. Topological data analysis (TDA) on the other hand offers qualitative invariants for understanding high-dimensional data sets. Persistent homology is the main tool used in TDA. It takes as input a nested sequence of spaces and outputs an invariant that captures where holes were born and died in the sequence of spaces. This invariant is called the persistence diagram or barcode. We provide a new language for studying persistent homology. We show that this language unifies central concepts in persistent homology. And it also provides access to Rota's Galois connection theorem.'
 date: 2022-10-11
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2201.06650'
