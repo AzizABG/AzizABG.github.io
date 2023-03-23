@@ -5,7 +5,7 @@ permalink: /publication/2023-02-07-GeneralizedPersistentLaplacian
 excerpt: 'The (combinatorial) graph Laplacian is a fundamental object in the analysis of, and optimization on, graphs. Via a topological view, this operator can be extended to a simplicial complex $K$ and therefore offers a way to perform ``signal processing" on $p$-(co)chains of $K$.  Recently, the concept of \emph{persistent Laplacian} was proposed and studied for a pair of  simplicial complexes $K\hookrightarrow L$ connected by an inclusion relation, further broadening the use of Laplace-based operators. In this paper, we significantly expand the scope of the persistent Laplacian by generalizing it to a pair of weighted simplicial complexes connected by a weight preserving simplicial map $f: K \to L$. Such a simplicial map setting arises frequently, e.g., when relating a coarsened simplicial representation with an original representation, or the case when the two simplicial complexes are spanned by different point sets, i.e. cases in which it does not hold that $K\subset L$.  However, the simplicial map setting is much more challenging than the inclusion setting since the underlying algebraic structure is much more complicated.'
 date: 2023-02-07
 venue: 'accepted'
-toapper: '39th International Symposium on Computational Geometry (SoCG 2023).'
+toappear: '39th International Symposium on Computational Geometry (SoCG 2023).'
 paperurl: 'https://arxiv.org/abs/2302.03771'
 citation: 'Gülen, A.B., Mémoli, F., Wan, Z., Wang, Y. (2023). A Generalization of the Persistent Laplacian to Simplicial Maps. <i>arXiv preprint</i>. arXiv:2302.03771.'
 ---
