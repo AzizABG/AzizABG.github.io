@@ -30,7 +30,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color:#494E52;">{{ title }}</a>
       {% endif %}
     </h2>
     
@@ -60,7 +60,7 @@
     
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} </p>
-      <a href=" {{ post.paperurl }}" style="color:#000000;">Download paper here</a>
+      <a href=" {{ post.paperurl }}" style="color:#494E52;">Download paper here</a>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
