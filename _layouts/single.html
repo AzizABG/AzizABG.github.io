@@ -51,9 +51,7 @@ layout: default
         {% endif %}
         
              
-        {% if page.citation %}
-          <p>Recommended citation: {{ page.citation }}</p>
-        {% endif %}
+        
     
         </header>
       {% endunless %}
@@ -62,6 +60,10 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+
+      {% if page.citation %}
+          <p>Recommended citation: {{ page.citation }}</p>
+        {% endif %}
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
