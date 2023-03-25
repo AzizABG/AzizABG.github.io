@@ -1,12 +1,11 @@
 ---
 title: "MATH 1152: Calculus II (Spring 2019)"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2019-spring-teaching
 venue: "The Ohio State University, Department of Mathematics"
 date: 2019-01-01
 location: "Columbus, OH"
-excerpt: "Teaching Assistant"
 ---
 
 Integral calculus, sequences and series, parametric curves, polar coordinates, vectors.
