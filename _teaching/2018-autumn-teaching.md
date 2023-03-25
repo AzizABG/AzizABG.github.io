@@ -1,5 +1,5 @@
 ---
-title: "MATH 1151: Calculus I"
+title: "MATH 1151: Calculus I (Autumn 2018)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-autumn-teaching
