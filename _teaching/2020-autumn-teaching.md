@@ -1,5 +1,5 @@
 ---
-title: "MATH 1150: Precalculus (autumn 2020)"
+title: "MATH 1150: Precalculus (Autumn 2020)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2020-autumn-teaching
