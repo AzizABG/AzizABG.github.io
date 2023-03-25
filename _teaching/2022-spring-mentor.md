@@ -10,4 +10,4 @@ location: "Columbus, OH"
 
 Mentored an undergraduate student, Alina Li, to read about classification of surfaces.
 
-[u.osu.edu/directedreadingprogram](https://u.osu.edu/directedreadingprogram/)
+Directed Reading Program Webpage: [u.osu.edu/directedreadingprogram](https://u.osu.edu/directedreadingprogram/)

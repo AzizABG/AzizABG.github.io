@@ -10,4 +10,4 @@ location: "Columbus, OH"
 
 Mentoring two undergraduate students, Mark Kikta and Umar Jara, to read about Machine Learning algorithms.
 
-[u.osu.edu/directedreadingprogram](https://u.osu.edu/directedreadingprogram/)
+Directed Reading Program Webpage: [u.osu.edu/directedreadingprogram](https://u.osu.edu/directedreadingprogram/)
