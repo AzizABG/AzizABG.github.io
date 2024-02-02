@@ -12,8 +12,6 @@ Hi! I'm Aziz, a PhD student at <a href="https://osu.edu/" style="color:#000000;"
 
 My research mainly focuses on topological data analysis (TDA) by utilizing tools from category theory, algebraic combinatorics, operator theory, and spectral theory.
 
-I am currently in the job market.
-
 <a href="https://azizabg.github.io/files/CV_11-15.pdf" style="color:#000000;">CV</a> (Last updated: November 2023)
 
 <!---
