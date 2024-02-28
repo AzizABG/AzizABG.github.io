@@ -12,6 +12,8 @@ Hi! I'm Aziz, a PhD student at <a href="https://osu.edu/" style="color:#000000;"
 
 My research mainly focuses on topological data analysis (TDA) by utilizing tools from category theory, algebraic combinatorics, operator theory, and spectral theory.
 
+Starting Fall 2024, I will be a William W. Elliott Assistant Research Professor at <a href="https://math.duke.edu/" style="color:#000000;">Duke University</a>.
+
 <a href="https://azizabg.github.io/files/CV_11-15.pdf" style="color:#000000;">CV</a> (Last updated: November 2023)
 
 <!---
