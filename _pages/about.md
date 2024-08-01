@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Aziz Burak Gülen. I am currently a William W. Elliott Assistant Research Professor at the <a href="https://math.duke.edu/" style="color:#000000;">Department of Mathematics</a> at <a href="https://duke.edu/" style="color:#000000;">Duke University</a>, and my mentor is Prof. <a href="https://sites.math.duke.edu/~ezra/" style="color:#000000;">Ezra Miller</a>
 
-I earned my PhD in Mathematics from <a href="https://osu.edu/" style="color:#000000;">The Ohio State University</a>. My thesis advisor was <a href="https://facundo-memoli.org/" style="color:#000000;">Facundo Mémoli</a>, and here is a link to our research group at OSU: <a href="https://ndag.github.io/" style="color:#000000;">Network Data Analysis Group</a>. 
+I earned my PhD in Mathematics from <a href="https://osu.edu/" style="color:#000000;">The Ohio State University</a>. My thesis advisor was Prof. <a href="https://facundo-memoli.org/" style="color:#000000;">Facundo Mémoli</a>, and here is a link to our research group at OSU: <a href="https://ndag.github.io/" style="color:#000000;">Network Data Analysis Group</a>. 
 
 My research mainly focuses on topological data analysis (TDA) by utilizing tools from category theory, algebraic combinatorics, operator theory, and spectral theory.
 
