@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aziz Burak Gülen"
   avatar           : "profile.png"
-  bio              : PhD Candidate at <a href="https://osu.edu/" style="color:#000000;">The Ohio State University</a>, <a href="https://math.osu.edu/" style="color:#000000;">Department of Mathematics</a>
-  location         : "Columbus, OH"
+  bio              : Assistant Research Professor (postdoc) at <a href="https://duke.edu/" style="color:#000000;">Duke University</a>, <a href="https://math.duke.edu/" style="color:#000000;">Department of Mathematics</a>
+  location         : "Durham, NC"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Lzc7hZEAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "guelen.1@osu.edu"
+  email            : "aziz.burak.guelen@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
