@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Aziz, a PhD student at <a href="https://osu.edu/" style="color:#000000;">The Ohio State University</a> in the <a href="https://math.osu.edu/" style="color:#000000;">Department of Mathematics</a>. My thesis advisor is <a href="https://facundo-memoli.org/" style="color:#000000;">Facundo Mémoli</a>, and here is a link to our research group at OSU: <a href="https://ndag.github.io/" style="color:#000000;">Network Data Analysis Group</a>. 
+Hi! I'm Aziz Burak Gülen. I am currently a William W. Elliott Assistant Research Professor at the <a href="https://math.duke.edu/" style="color:#000000;">Department of Mathematics</a> at <a href="https://duke.edu/" style="color:#000000;">Duke University</a>, and my mentor is Prof. <a href="https://sites.math.duke.edu/~ezra/" style="color:#000000;">Ezra Miller</a>
+
+I earned my PhD in Mathematics from <a href="https://osu.edu/" style="color:#000000;">The Ohio State University</a>. My thesis advisor was <a href="https://facundo-memoli.org/" style="color:#000000;">Facundo Mémoli</a>, and here is a link to our research group at OSU: <a href="https://ndag.github.io/" style="color:#000000;">Network Data Analysis Group</a>. 
 
 My research mainly focuses on topological data analysis (TDA) by utilizing tools from category theory, algebraic combinatorics, operator theory, and spectral theory.
-
-Starting Fall 2024, I will be a William W. Elliott Assistant Research Professor at the <a href="https://math.duke.edu/" style="color:#000000;">Department of Mathematics</a> at <a href="https://duke.edu/" style="color:#000000;">Duke University</a>.
 
 <a href="https://azizabg.github.io/files/CV_11-15.pdf" style="color:#000000;">CV</a> (Last updated: November 2023)
 
