@@ -6,6 +6,7 @@ excerpt: "We introduce the notion of Orthogonal M&ouml;bius Inversion, a custom-
 date: 2023-11-12
 venue: 'preprint'
 paperurl: 'https://arxiv.org/abs/2311.06870'
+citation: 'Gülen, A.B., Mémoli, F., Wan, Z. (2023). Orthogonal Möbius Inversion and Grassmannian Persistence Diagrams. <i>arXiv preprint</i>. arXiv:2311.06870.'
 ---
 
 <a href="https://arxiv.org/abs/2311.06870" style="color:#000000;">Download paper here</a>
