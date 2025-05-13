@@ -1,5 +1,5 @@
 ---
-title: "$\ell^p$-Stability of Weighted Persistence Diagrams"
+title: "$ℓ^p$-Stability of Weighted Persistence Diagrams"
 collection: publications
 permalink: /publication/2025-04-16-WeightedPersistenceDiagrams/
 excerpt: "We introduce the concept of weighted persistence diagrams and develop a functorial pipeline for constructing them from finite metric measure spaces. This builds upon an existing functorial framework for generating classical persistence diagrams from finite pseudo-metric spaces."
