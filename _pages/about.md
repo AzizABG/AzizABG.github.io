@@ -12,7 +12,7 @@ Hi! I'm Aziz Burak Gülen. I am currently a William W. Elliott Assistant Researc
 
 I earned my PhD in Mathematics from <a href="https://osu.edu/" style="color:#000000;">The Ohio State University</a>. My thesis advisor was Prof. <a href="https://facundo-memoli.org/" style="color:#000000;">Facundo Mémoli</a>, and here is a link to our research group at OSU: <a href="https://ndag.github.io/" style="color:#000000;">Network Data Analysis Group</a>. 
 
-My research mainly focuses on topological data analysis (TDA) by utilizing tools from category theory, algebraic combinatorics, operator theory, and spectral theory.
+My research mainly focuses on the foundational aspects of optimal transport (OT) and topological data analysis (TDA) by utilizing tools from category theory, algebraic combinatorics, operator theory, and spectral theory.
 
 <a href="https://azizabg.github.io/files/CV_Aug2024.pdf" style="color:#000000;">CV</a> (Last updated: August 2024)
 
