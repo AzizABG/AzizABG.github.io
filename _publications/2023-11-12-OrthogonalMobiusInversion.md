@@ -1,5 +1,5 @@
 ---
-title: "Orthogonal M&ouml;bius Inversion and Grassmannian Persistence Diagrams"
+title: "Grassmannian Persistence Diagrams"
 collection: publications
 permalink: /publication/2023-11-12-OrthogonalMobiusInversion/
 excerpt: "We introduce the notion of Orthogonal M&ouml;bius Inversion, a custom-made analog to M&ouml;bius inversion on the poset of intervals of a linear poset $P$. This notion is applicable to functions whose target space is the Grassmannian of a given inner product space $V$. When this notion of inversion is applied to such a function, we obtain another function, called the Grassmannian persistence diagram."
