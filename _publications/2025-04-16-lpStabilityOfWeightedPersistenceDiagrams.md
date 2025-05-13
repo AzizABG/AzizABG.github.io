@@ -6,7 +6,7 @@ excerpt: "We introduce the concept of weighted persistence diagrams and develop 
 date: 2025-04-16
 venue: 'preprint'
 paperurl: 'https://arxiv.org/abs/2504.11694'
-citation: 'Gülen, A.B., Mémoli, F., Wan, Z. (2025). Grassmannian Persistence Diagrams: Special Properties in the 1-Parameter Setting. <i>arXiv preprint</i>. arXiv:2504.11694.'
+citation: 'Gülen, A.B., Mémoli, F., Patel, A. (2025). $ℓ^p$-Stability of Weighted Persistence Diagrams. <i>arXiv preprint</i>. arXiv:2504.11694.'
 ---
 
 <a href="https://arxiv.org/abs/2504.11694" style="color:#000000;">Download paper here</a>
